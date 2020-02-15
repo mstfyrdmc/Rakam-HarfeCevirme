@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\WFARakam_harfe Cevirme\WFARakam_harfe Cevirme\bin\Debug\WFARakam_harfe Cevirme.exe.config
+C:\Users\User\Desktop\WFARakam_harfe Cevirme\WFARakam_harfe Cevirme\bin\Debug\WFARakam_harfe Cevirme.exe
+C:\Users\User\Desktop\WFARakam_harfe Cevirme\WFARakam_harfe Cevirme\bin\Debug\WFARakam_harfe Cevirme.pdb
+C:\Users\User\Desktop\WFARakam_harfe Cevirme\WFARakam_harfe Cevirme\obj\Debug\WFARakam_harfe Cevirme.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WFARakam_harfe Cevirme\WFARakam_harfe Cevirme\obj\Debug\WFARakam_harfe_Cevirme.Form1.resources
+C:\Users\User\Desktop\WFARakam_harfe Cevirme\WFARakam_harfe Cevirme\obj\Debug\WFARakam_harfe_Cevirme.Properties.Resources.resources
+C:\Users\User\Desktop\WFARakam_harfe Cevirme\WFARakam_harfe Cevirme\obj\Debug\WFARakam_harfe Cevirme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WFARakam_harfe Cevirme\WFARakam_harfe Cevirme\obj\Debug\WFARakam_harfe Cevirme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WFARakam_harfe Cevirme\WFARakam_harfe Cevirme\obj\Debug\WFARakam_harfe Cevirme.exe
+C:\Users\User\Desktop\WFARakam_harfe Cevirme\WFARakam_harfe Cevirme\obj\Debug\WFARakam_harfe Cevirme.pdb

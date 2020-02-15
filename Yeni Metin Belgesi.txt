@@ -1,0 +1,75 @@
+int sonuc = sayi / 10;
+            int kalan = sayi % 10;
+            if(sonuc==1)
+            {
+                lblsonuc.Text ="ON";
+            }
+            else if(sonuc==2)
+            {
+                lblsonuc.Text = "y›RM›";
+            }
+            else if(sonuc==3)
+            {
+                lblsonuc.Text = "OTUZ";
+            }
+            else if (sonuc ==4)
+            {
+                lblsonuc.Text = "KIRK";
+            }
+            else if (sonuc ==5)
+            {
+                lblsonuc.Text = "ELL›";
+            }
+            else if (sonuc ==6)
+            {
+                lblsonuc.Text = "ATMIS";
+            }
+            else if (sonuc ==7)
+            {
+                lblsonuc.Text = "YETM›ﬁ";
+            }
+            else if (sonuc ==8)
+            {
+                lblsonuc.Text = "SEKSEN";
+            }
+            else if (sonuc ==9)
+            {
+                lblsonuc.Text = "DOKSAN";
+            }
+
+            if(kalan==1)
+            {
+                lblsonuc.Text = lblsonuc.Text+" B›R";
+            }
+            else if(kalan==2)
+            {
+                lblsonuc.Text = lblsonuc.Text + "›K›";
+            }
+            if (kalan == 3)
+            {
+                lblsonuc.Text = lblsonuc.Text + " ‹«";
+            }
+            else if (kalan == 4)
+            {
+                lblsonuc.Text = lblsonuc.Text + "D÷RT";
+            }
+            else if (kalan == 5)
+            {
+                lblsonuc.Text = lblsonuc.Text + "BEﬁ";
+            }
+            else if (kalan == 6)
+            {
+                lblsonuc.Text = lblsonuc.Text + "ALTI";
+            }
+            else if (kalan == 7)
+            {
+                lblsonuc.Text = lblsonuc.Text + "YED›";
+            }
+            else if (kalan == 8)
+            {
+                lblsonuc.Text = lblsonuc.Text + "SEK›Z";
+            }
+            else if (kalan == 9)
+            {
+                lblsonuc.Text = lblsonuc.Text + "DOKUZ";
+            }
